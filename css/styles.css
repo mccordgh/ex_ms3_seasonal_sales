@@ -1,0 +1,31 @@
+html, body, ul, ol {
+	margin: 0;
+}
+
+h2 {
+	font-size: 1.25em;
+}
+
+select {
+	font-size: 1em;
+	height: 50px;
+	width: 200px;
+	font-weight: bold;
+}
+
+.productDiv {
+	width: 15%;
+	height: 100px;
+	margin: 10px;
+	padding: 10px;
+	border: 2px solid red;
+	display: inline-block;
+}
+
+div {
+	width: 80%;
+	margin: 20px auto;
+	padding: 20px;
+	border: 2px solid lightblue;
+	text-align: center;
+}
